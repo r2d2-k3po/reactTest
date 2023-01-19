@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16bfdcf4-6f7b-4716-beb5-96a9b92fc633" name="Changes" comment="delete /.idea" />
+    <list default="true" id="16bfdcf4-6f7b-4716-beb5-96a9b92fc633" name="Changes" comment="git reset">
+      <change afterPath="$PROJECT_DIR$/src/components/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoListItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoListItem.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673935076057</updated>
       <workItem from="1673935077765" duration="6759000" />
+      <workItem from="1673946943514" duration="1102000" />
+      <workItem from="1674086762282" duration="5526000" />
     </task>
     <task id="LOCAL-00001" summary="TodoInsert">
       <created>1673941905029</created>
@@ -91,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673942372748</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git reset">
+      <created>1673947220594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673947220594</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TodoInsert" />
     <MESSAGE value="delete /.idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete /.idea" />
+    <MESSAGE value="git reset" />
+    <option name="LAST_COMMIT_MESSAGE" value="git reset" />
   </component>
 </project>
