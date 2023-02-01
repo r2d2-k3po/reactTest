@@ -23,4 +23,4 @@ function counter(state = initialState, action) {
   }
 }
 
-export default counter();
+export default counter;
